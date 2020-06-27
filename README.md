@@ -1,4 +1,4 @@
-# Twitter Bot Using Selenium Package
+# Twitter Bot 
 The twitter bot works by automatically liking your hashtag posts on twitter. Your twitter page will also scroll down automatically. The bot recognizes the 'heart' emoji of the post and the cursor clicks on it and this loop continues without any user interference.
 
 ## Features:
